@@ -35,11 +35,20 @@ python Snake.py
 
 ---
 
-## 💻 Play Without Python
+### 💻 Play Without Python (Windows EXE)
 
-👉 [Download Snake.exe](https://drive.google.com/file/d/1QC0jYSRAFGnXOXnztPANW0FWzu1Tr-8R/view?usp=sharing)
+👉 [Download Snake Game (EXE + Resources)](https://drive.google.com/file/d/1QC0jYSRAFGnXOXnztPANW0FWzu1Tr-8R/view?usp=sharing)
 
-*No installation needed. Just double-click and play!*
+#### 🛠 How to Play the Game After Downloading:
+1. **Click the link above** to open Google Drive
+2. Click the **Download icon ⬇️** in the top-right
+3. Once downloaded, **right-click the ZIP file → Extract All**
+4. Open the extracted folder
+5. Double-click **`Snake.exe`**
+6. 🎉 Enjoy playing the game with music and sound!
+
+> ⚠️ **Important:**  
+> Don’t run `Snake.exe` from inside the ZIP file — you must **extract** it first, or the game will crash.
 
 ---
 
