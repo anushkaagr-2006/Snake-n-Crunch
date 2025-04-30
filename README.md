@@ -37,7 +37,7 @@ python Snake.py
 
 ## 💻 Play Without Python
 
-👉 [Download Snake.exe](https://drive.google.com/file/d/1XsVz1EUUIlQGhsk2yNtZ_4v9LS6-HPkq/view?usp=sharing)
+👉 [Download Snake.exe](https://drive.google.com/file/d/1QC0jYSRAFGnXOXnztPANW0FWzu1Tr-8R/view?usp=sharing)
 
 *No installation needed. Just double-click and play!*
 
